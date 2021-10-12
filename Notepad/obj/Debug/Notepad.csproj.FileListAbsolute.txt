@@ -1,0 +1,11 @@
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.FontSettings.resources
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Notepad\Notepad\obj\Debug\Notepad.pdb
